@@ -28,6 +28,7 @@ These answers were evaluated `inputRowsPerSecond` and `processedRowsPerSecond`
 ### Question 2
 
 Best values:
+
     * `maxRatePerPartition`: 300;
     * `maxOffserPerTrigger`: 200;
 
